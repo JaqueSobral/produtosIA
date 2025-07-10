@@ -1,4 +1,4 @@
-# Spring Boot CRUD de Produtos
+# Spring Boot CRUD de Produtos #
 Este projeto é uma API RESTful para gerenciamento de produtos, migrado de Node.js para Java com Spring Boot. Ele segue boas práticas de arquitetura em camadas
 (Controller, Service, Repository, DTO, Model) e utiliza Spring Data JPA com banco H2 em memória.
 ---
