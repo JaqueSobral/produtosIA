@@ -53,7 +53,7 @@ JDBC URL: jdbc:h2:mem:testdb
 Criar Produto
 json
 {
-  "nome": "Produto XPTO",
+  "nome": "Produto 1",
   "dataCriacao": "2024-06-01",
   "quantidadeDisponivel": 100
 }
